@@ -1,6 +1,6 @@
 {
-  "name": "Control de Gastos y Ahorro",
-  "short_name": "Control Gastos",
+  "name": "Korsé a tus Gastos",
+  "short_name": "Korsé",
   "description": "Gestión privada de gastos, presupuesto, meta de ahorro y recibos 100% en tu dispositivo.",
   "start_url": "./index.html",
   "display": "standalone",
